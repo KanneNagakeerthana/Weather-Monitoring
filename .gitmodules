@@ -1,0 +1,4 @@
+[submodule "weather-dashboard"]
+	path = weather-dashboard
+	url = https://github.com/KanneNagakeerthana/weather-monitoring.git
+
